@@ -35,8 +35,8 @@ The objective is to evaluate:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone git@github.com:cesarnunezh/IADB-ass.git
+cd IADB-ass
 ```
 
 ### 2. Install Dependencies
@@ -56,7 +56,7 @@ These are required for both metadata consistency analysis and semantic evaluatio
 ### 4. Run the Analysis
 Run via Jupyter Notebook
 ```
-uv run jupyter notebook analyze.ipynb
+uvx jupyter notebook analyze.ipynb
 ```
 
 ## 3. Methodology
