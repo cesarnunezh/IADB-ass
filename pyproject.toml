@@ -1,0 +1,18 @@
+[project]
+name = "iadb"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "altair>=6.0.0",
+    "chromadb>=1.5.2",
+    "ipykernel>=7.2.0",
+    "polars>=1.38.1",
+    "pyld>=2.0.4",
+    "rdflib>=7.6.0",
+    "scikit-learn>=1.8.0",
+    "sentence-transformers>=5.2.3",
+    "torch>=2.10.0",
+    "transformers>=5.2.0",
+]
