@@ -1,5 +1,8 @@
 # Technical Assessment — Metadata Accuracy & Consistency Analysis
 
+César Núñez Huamán - cnunezh@uchicago.edu
+
+
 ## 1. Overview
 This repository contains the analysis of metadata quality for IDB Working Papers using:
 - JSON-LD datasets for taxonomy and documents descriptions.
